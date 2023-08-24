@@ -1,28 +1,34 @@
 <h1 align="center">Hey there! 👋</h1>
+## About Me
 
-<h2 align="center">About Me</h2>
+👤 **Faraz Malik**
 
-<p align="center">
-  <strong>Faraz Malik</strong><br>
-  Software Engineering Sophomore at FAST-NUCES 🎓
-</p>
+🎓 **Education:** Software Engineering Sophomore at FAST-NUCES
 
-<h2 align="center">What Drives Me</h2>
+## What Drives Me
 
-<p align="center">Embracing every opportunity to expand my horizons is what truly drives me. Here's a snapshot of my ongoing ventures:</p>
+Embracing every opportunity to expand my horizons is what truly drives me. Here's a snapshot of my ongoing ventures:
 
-<ul>
-  <li><strong>Eternal Learner:</strong> My curiosity knows no bounds. From unraveling the mysteries of physics to navigating the intricate paths of philosophy, I am dedicated to continuous learning.</li>
-  <li><strong>Programming Languages:</strong> I'm well-versed in C++, a language I find fascinating due to its power and versatility. It's like a canvas where I can paint intricate algorithms and logic.</li>
-  <li><strong>Web Development Enthusiast:</strong> Presently, I'm deeply immersed in the world of web development. My aspiration is to craft dynamic web experiences that marry functionality with creativity.</li>
-  <li><strong>Embracing the Unknown:</strong> Anticipating a future filled with diverse learning experiences brings me great joy. Every step forward is a chance to gather knowledge, and I eagerly await what lies ahead.</li>
-</ul>
+- **Eternal Learner:** My curiosity knows no bounds. From unraveling the mysteries of physics to navigating the intricate paths of philosophy, I am dedicated to continuous learning.
 
-<h2 align="center">What You'll Find Here 🌐</h2>
+- **Programming Languages:** I'm well-versed in C++, a language I find fascinating due to its power and versatility. It's like a canvas where I can paint intricate algorithms and logic.
 
-<p align="center">Explore a mix of my web development projects, coding experiments, and future projects related to artificial intelligence:</p>
+- **Web Development Enthusiast:** Presently, I'm deeply immersed in the world of web development. My aspiration is to craft dynamic web experiences that marry functionality with creativity.
 
-<p align="center">
+- **Embracing the Unknown:** Anticipating a future filled with diverse learning experiences brings me great joy. Every step forward is a chance to gather knowledge, and I eagerly await what lies ahead.
+
+## What You'll Find Here 🌐
+
+- My web development projects, where I put theory into practice and create interactive and user-friendly websites🌐
+
+- Coding experiments that showcase my skills in C++ and other languages as I continue to learn and grow 🧠
+
+- Future projects related to artificial intelligence and other respective fields as I delve deeper into this evolving field 🤖
+
+## Let's Connect 🤝
+
+I'm always eager to connect with fellow learners, developers, and individuals who share my passions. Feel free to get in touch via the following platforms:
+<p>
   <a href="https://www.instagram.com/farax_malik/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40farax__malik-orange">
   </a>
@@ -31,14 +37,8 @@
   </a>
 </p>
 
-<h2 align="center">Let's Connect 🤝</h2>
+Here's to embracing the journey of growth and discovery together! 🚀
 
-<p align="center">I'm always eager to connect with fellow learners, developers, and individuals who share my passions.</p>
+> "True wisdom is found in the pursuit of knowledge, where the journey itself uncovers the vistas of truth." - Socrates
 
-<p align="center">Here's to embracing the journey of growth and discovery together! 🚀</p>
-
-<blockquote align="center">
-  "True wisdom is found in the pursuit of knowledge, where the journey itself uncovers the vistas of truth." - Socrates
-</blockquote>
-
-<p align="center">Looking forward to the boundless learning that the future holds!</p>
+Looking forward to the boundless learning that the future holds!
