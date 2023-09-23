@@ -6,7 +6,7 @@
 
 🎓 **Education:** Software Engineering Sophomore at FAST-NUCES
 
-## What Drives Me
+## What Intrigues me
 
 Embracing every opportunity to expand my horizons is what truly drives me. Here's a snapshot of my ongoing ventures:
 
