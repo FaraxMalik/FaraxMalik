@@ -40,6 +40,6 @@ I'm always eager to connect with fellow learners, developers, and individuals wh
 
 Here's to embracing the journey of growth and discovery together! 🚀
 
-> "True wisdom is found in the pursuit of knowledge, where the journey itself uncovers the vistas of truth." - Socrates
+> ""Man is condemned to be free; once thrown into the world he is responsible for everything he does" - Jean-Paul Sartre
 
 Looking forward to the boundless learning that the future holds!
