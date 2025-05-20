@@ -1,6 +1,4 @@
-<p align="center">
-  <h1 style="margin-bottom: 5px; font-size: 48px; font-weight: bold;">👋🏻</h1>
-</p>
+<h1 align="center" style="margin-bottom: 5px; font-size: 48px; font-weight: bold;">👋🏻</h1>
 
 <p align="justify" style="max-width: 600px; margin: auto; line-height: 1.5;">
   I love to learn — not just tech, but anything interesting - new or even controversial.<br>
