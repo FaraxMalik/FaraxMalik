@@ -1,12 +1,12 @@
 <h1 align="center" style="margin-bottom: 5px; font-size: 48px; font-weight: bold;">👋🏻</h1>
 
 <p align="justify" style="max-width: 600px; margin: auto; line-height: 1.5;">
-  I love to learn — not just tech, but anything interesting - new or even controversial.<br>
+  I love to learn - not just tech, but anything interesting - new or even controversial.<br>
   If you want to discuss ideas - challenge perspectives - or share something cool - feel free to connect.
 </p>
 
 <p align="justify" style="max-width: 600px; margin: auto; font-style: italic;">
-  Sometimes I share what I build here — projects, experiments.
+  Sometimes I share what I build here - projects, experiments.
 </p>
 
 <p align="center" style="margin-top: 30px;">
