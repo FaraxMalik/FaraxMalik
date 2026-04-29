@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Faraz+%F0%9F%91%8B;Mobile+%26+Full+Stack+Developer;Flutter+%7C+Django+%7C+Next.js;Building+things+with+AI" alt="Typing SVG" />
 
 <br/>
@@ -11,7 +10,9 @@
 </div>
 
 ---
-Discuss a Problem and lets Solve it!!
+
+<div align="center">💬 Got a problem? Let's discuss it and solve it together!</div>
+
 ---
 
 <div align="center">
@@ -48,7 +49,6 @@ Discuss a Problem and lets Solve it!!
 
 </div>
 
-
 ---
 
 <div align="center">
@@ -56,5 +56,3 @@ Discuss a Problem and lets Solve it!!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
