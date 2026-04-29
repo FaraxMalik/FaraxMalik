@@ -1,63 +1,80 @@
-Hi 👋, I'm Faraz Malik
-A mobile and full stack developer from Lahore, Pakistan
+<div align="center">
 
-- 🔭 I'm currently working on **AI-powered mobile and web apps**
-- 🌱 I'm currently learning **LLM integrations and cloud deployment**
-- 👯 I'm looking to collaborate on **Flutter or Django projects**
-- 💬 Ask me about **Flutter, Django, Next.js, Python, AI integrations**
-- 📫 How to reach me: **your@email.com**
-- 👨‍💻 All of my projects are available at **https://github.com/FaraxMalik**
-- ⚡ Fun fact: **I built a voice AI that runs fully offline on my laptop**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Faraz+%F0%9F%91%8B;Mobile+%26+Full+Stack+Developer;Flutter+%7C+Django+%7C+Next.js;Building+things+with+AI" alt="Typing SVG" />
 
----
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7542E&center=true&vCenter=true&width=435&lines=Mobile+%26+Full+Stack+Developer;Flutter+%7C+Django+%7C+Next.js;Building+AI-powered+apps;Always+learning+new+things" alt="Typing SVG" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-malik-80b463248)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faraz_malik08)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaraxMalik)
+
+</div>
 
 ---
 
-**Connect with me:**
-
-<p align="left">
-<a href="https://www.linkedin.com/in/faraz-malik-80b463248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/faraz_malik08" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-**Languages and Tools:**
-
-<p align="left">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+- 🔭 Currently building **AI-powered mobile and web apps**
+- 🌱 Currently learning **LLM integrations and cloud deployment**
+- 👯 Open to collaborate on **Flutter or Django projects**
+- 💬 Ask me about **Flutter · Django · Next.js · Python · AI integrations**
+- 📫 Reach me at **your@email.com**
+- ⚡ Fun fact **I built a voice AI that runs fully offline on my laptop**
 
 ---
 
-**GitHub Stats:**
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaraxMalik&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaraxMalik&theme=radical&hide_border=true" width="48%" />
-</p>
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaraxMalik&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FaraxMalik&label=Profile%20views&color=F7542E&style=flat" alt="profile views" />
-</p>
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=FaraxMalik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaraxMalik&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaraxMalik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 
+
+![](https://github-profile-trophy.vercel.app/?username=FaraxMalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=FaraxMalik&icon=0&color=6" />
+</div>
