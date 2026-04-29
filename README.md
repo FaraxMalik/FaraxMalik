@@ -11,14 +11,7 @@
 </div>
 
 ---
-
-- 🔭 Currently building **AI-powered mobile and web apps**
-- 🌱 Currently learning **LLM integrations and cloud deployment**
-- 👯 Open to collaborate on **Flutter or Django projects**
-- 💬 Ask me about **Flutter · Django · Next.js · Python · AI integrations**
-- 📫 Reach me at **your@email.com**
-- ⚡ Fun fact **I built a voice AI that runs fully offline on my laptop**
-
+Discuss a Problem and lets Solve it!!
 ---
 
 <div align="center">
@@ -55,15 +48,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 🏆 
-
-![](https://github-profile-trophy.vercel.app/?username=FaraxMalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
@@ -74,7 +58,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=FaraxMalik&icon=0&color=6" />
-</div>
